@@ -45,7 +45,7 @@ namespace SystemsExample
             }
         }
 
-        // Введення коефіцієнтів
+        //Введення коефіцієнтів системи
         public virtual void SetCoefficients()
         {
             Console.WriteLine($"\nВведіть коефіцієнти для системи {_size}×{_size}:");
