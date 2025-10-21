@@ -2,7 +2,7 @@ using System;
 
 namespace SystemsExample
 {
-    // Базовий клас для систем рівнянь NxN
+    // Базовий клас для систем рівняння NxN
     class SystemNxN
     {
         protected int _size;
